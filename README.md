@@ -1,4 +1,4 @@
-<h1 align="center"> Filmes api </h1>
+<h1 align="center"> Filmes-Api </h1>
 
 <p align="center"> Projeto em construção  </p>
 
