@@ -1,6 +1,8 @@
 # ControleFinanceiro
 Projeto desenvolvido com HTML, CSS e Javascript puros com o intuito de ter algo facil e simples para o controle de gastos 
 
+<img src="css/Controle.png" alt="" >
+
 # Recursos
 Voce pode adicionar transações com descrição, ter um controle de entrada e saídas e ter um controle do saldo atual.
 
