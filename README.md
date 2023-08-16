@@ -1,4 +1,4 @@
-# ControleFinanceiro
+# Controle Financeiro
 Projeto desenvolvido com HTML, CSS e Javascript puros com o intuito de ter algo facil e simples para o controle de gastos 
 
 <img src="css/Controle.png" alt="" >
