@@ -1,11 +1,20 @@
 # Controle Financeiro
-Projeto desenvolvido com HTML, CSS e Javascript puros com o intuito de ter algo facil e simples para o controle de gastos 
 
+
+Este é um projeto de Controle Financeiro desenvolvido com HTML, CSS e JavaScript. Ele oferece uma interface intuitiva para acompanhar suas finanças pessoais.
+
+
+
+.
 <img src="css/Controle.png" alt="" >
 
-# Recursos
-Voce pode adicionar transações com descrição, ter um controle de entrada e saídas e ter um controle do saldo atual.
-
+# Recursos Principais:
+- Voce pode adicionar transações com descrição, ter um controle de entrada e saídas e ter um controle do saldo atual.
+- Adição de despesas e receitas.
+- Cálculo automático do saldo.
+- Exibição de histórico de transações.
+  
+Gráficos visuais para análise financeira
 # Tecnologias utilizadas
 • HTML <br>
 • CSS <br>
